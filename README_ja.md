@@ -15,11 +15,17 @@ English version: [README.md](README.md)
 
 公式 itch.io ページ:
 
-https://gen-hasegawa.itch.io/3kings
+<https://gen-hasegawa.itch.io/3kings>
 
 公式サイト:
 
-https://3kings-gen.vercel.app/
+<https://3kings-gen.vercel.app/>
+
+## ドキュメント
+
+ゲーム内容や操作方法の詳細は、以下の資料を参照してください。
+
+- [ユーザーガイド](docs/3kings_user_guide_ja.md)
 
 ## 動作環境
 

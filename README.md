@@ -15,11 +15,17 @@ Please download the latest release from the GitHub Releases page.
 
 Official itch.io page:
 
-https://gen-hasegawa.itch.io/3kings
+<https://gen-hasegawa.itch.io/3kings>
 
 Official website:
 
-https://3kings-gen.vercel.app/
+<https://3kings-gen.vercel.app/>
+
+## Documents
+
+For more details about gameplay and controls, see the documents below.
+
+- [User Guide](docs/3kings_user_guide.md)
 
 ## System Requirements
 
