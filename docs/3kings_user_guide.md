@@ -17,7 +17,7 @@ Your goal is to conquer all 14 provinces and unite the realm.
 ## Game Flow
 
 After startup, choose the language, level, scenario, and player ruler to begin the game.
-For first-time players, LEVEL1 is recommended.
+For first-time players, Easy is recommended.
 
 There are two scenarios. Each scenario has different starting powers, rulers, provinces, and abilities.
 
@@ -118,8 +118,8 @@ Move the cursor in the list and press confirm to check information about the pow
 **What is the unit bonus?**
 
 Each ruler has a bonus value representing the strength of that power.
-This value is set by scenario and is also affected by the selected LEVEL.
-Higher LEVEL settings increase the bonus value for all powers.
+This value is set by scenario and is also affected by the selected Difficulty.
+Higher Difficulty settings increase the bonus value for all powers.
 
 Because at least +1 is always added, even if all movable units leave a province, the province still retains strength equal to the bonus value.
 Think of it as reserve troops stationed there.
