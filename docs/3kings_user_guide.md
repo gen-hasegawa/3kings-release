@@ -248,8 +248,7 @@ There are eight types of stratagems:
 |5|Confuse|2+|Attempts to inflict confusion on random enemy units before battle. The number of targets depends on the stratagem value.|
 |6|Fire|3+|Launches two preemptive attacks against random enemy units. The number of targets depends on the stratagem value.|
 |7|Siege|3+|Adds +5 to the elapsed turn count. Battles will reach a draw more quickly. Favorable to defenders.|
-|8|???|8+|Can only be activated when Kongming and Zhou Yu are allied at Red Cliffs. An extremely powerful stratagem.
-|
+|8|???|8+|Can only be activated when Kongming and Zhou Yu are allied at Red Cliffs. An extremely powerful stratagem.|
 
 ### Unit Structure
 
