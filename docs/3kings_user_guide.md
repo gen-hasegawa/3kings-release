@@ -250,6 +250,7 @@ There are eight types of stratagems:
 |7|Siege|3+|Adds +5 to the elapsed turn count. Battles will reach a draw more quickly. Favorable to defenders.|
 |8|???|8+|Can only be activated when Kongming and Zhou Yu are allied at Red Cliffs. An extremely powerful stratagem.
 |
+
 ### Unit Structure
 
 ![unit](resources/sc_war_unit.png)
