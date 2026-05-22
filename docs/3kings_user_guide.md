@@ -234,6 +234,22 @@ For example, if you reserve a War command and then use Move in the same turn, th
 
 4. The bottom area is the message area.
 
+### Stratagems Activated Before Battle
+
+When a battle begins, a Advisor may propose a stratagem if one is present in the army.
+There are eight types of stratagems:
+
+|No.|Stratagem|Cost|Effect|
+| :--- | :--- | :--- | :--- |
+|1|Spped|1+|Increases allied SPD by +1|
+|2|Attack|1+|Increases allied ATK by +1|
+|3|Defence|1+|Increases allied DEF by +1|
+|4|Raid|2+|Launches one preemptive attack against random enemy units. The number of targets depends on the stratagem value.|
+|5|Confuse|2+|Attempts to inflict confusion on random enemy units before battle. The number of targets depends on the stratagem value.|
+|6|Fire|3+|Launches two preemptive attacks against random enemy units. The number of targets depends on the stratagem value.|
+|7|Siege|3+|Adds +5 to the elapsed turn count. Battles will reach a draw more quickly. Favorable to defenders.|
+|8|???|8+|Can only be activated when Kongming and Zhou Yu are allied at Red Cliffs. An extremely powerful stratagem.
+|
 ### Unit Structure
 
 ![unit](resources/sc_war_unit.png)
